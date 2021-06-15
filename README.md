@@ -1,14 +1,13 @@
-# AGRUPAMENTO DE TEMAS NO LEVANTAMENTO BIBLIOGRÁFICO SOBRE MINERAÇÃO DE PROCESSOS 
+# Agrupamento de Temas no Levantamento Bibliográfico sobre Mineração de Processos 
 
-#### Aluno: [Mirley Bitencourt](https://github.com/mirleybitencourt).
-#### Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC)
-
+#### Aluna: [Mirley Bitencourt](https://github.com/mirleybitencourt).
+#### Orientadores: [Manoela Kohler](https://github.com/manoelakohler) e [Felipe Borges](https://github.com/FelipeBorgesC).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para a monografia](https://github.com/mirleybitencourt/TextMining-AgrupamentoTemas/blob/main/Mirley%20Bitencourt%20Ferreira%20-%20Resumo.pdf). 
+- [Link para a monografia](Mirley%20Bitencourt%20Ferreira%20-%20Resumo.pdf). 
 
 ---
 
@@ -18,7 +17,7 @@ Esta POC (do inglês Proof Of Concept) visa à aplicação das técnicas de mine
 
 ### Abstract 
 
-This POC aims at the application of text mining and clustering techniques in scientific articles where information of title, summary and keywords about "process mining" were retrieved from the scientific base Web Of Science (search term: "process & mining "). From this database, 1969 articles were collected, containing more than 220 thousand tokens. Initially, a wordcloud was generated for general knowledge of the subjects and then k-means and a hierarchical cluster algorithm were applied to group the subjects. Fifteen different clusters were found involving a group of process discovery and process mining applied in the area of health and learning. This POC helps scientific researchers or even professionals who are looking for articles to discover groups of subjects in the survey of related works on the topic to be explored. Surveys made on search engines or on scientific databases often return thousands of articles, which makes it impossible for someone to read and select those that deal with the specific subject to be studied. Many exports of these article databases return information such as the study area and even the keywords, but they are often vague, and the grouping of topics is not known in a timely manner.
+This POC aims at the application of text mining and clustering techniques in scientific articles where information of title, summary and keywords about "process mining" were retrieved from the scientific base Web Of Science (search term: "process & mining"). From this database, 1969 articles were collected, containing more than 220 thousand tokens. Initially, a wordcloud was generated for general knowledge of the subjects and then k-means and a hierarchical cluster algorithm were applied to group the subjects. Fifteen different clusters were found involving a group of process discovery and process mining applied in the area of health and learning. This POC helps scientific researchers or even professionals who are looking for articles to discover groups of subjects in the survey of related works on the topic to be explored. Surveys made on search engines or on scientific databases often return thousands of articles, which makes it impossible for someone to read and select those that deal with the specific subject to be studied. Many exports of these article databases return information such as the study area and even the keywords, but they are often vague, and the grouping of topics is not known in a timely manner.
 
 ---
 
